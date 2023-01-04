@@ -101,10 +101,10 @@ identify enabling IT & generate alternative process redesigns
 
 ```
 	   --	        Business		 <--
-	  |						   			|
+|						   			|
 Business-pulled			 			Technology-driven
 
-	  |									|
+|									|
 	   -->   Information Technology   --
 ```
 
