@@ -108,7 +108,7 @@ Business-pulled			 			Technology-driven
 	   -->   Information Technology   --
 ```
 
-[!IT Effects](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src1.png)
+![IT Effects](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src1.png)
   
 ## Evaluation Criteria for Design Alternatives
 ```
@@ -149,7 +149,7 @@ they don't care about the middle process and front-line will be really critical 
   
 ## Summary
   
-[!Summary pics](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src2.png)
+![Summary pics](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src2.png)
   
 
 
