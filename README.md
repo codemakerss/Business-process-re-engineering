@@ -34,11 +34,13 @@ industry -> pricing -> purchasing -> distribution
    IS architectures
    Methods and tools
    IS organizations
+
 2. Process
    Core business processes
    Value-added
    Customer-focus
    Innovation
+   
 3. Organization
    Job skills
    Structures
@@ -80,15 +82,17 @@ we can then proceed the process
 - Feasible
   
 ## Process Data
-```html
+```
 Basic Overall process data
 
 we may have to take care about:
-customers and their requirements / 
-suppliers and their qualifications /
-business goals we want to achieve /
-performance characteristic, such as cost, cycle time, reliability and defect rate /
-systems constrains, such as budget, business, legal, social, environment, and safety issues and constraints
+
+customers and their requirements 
+suppliers and their qualifications
+business goals we want to achieve 
+performance characteristic, such as cost, cycle time, reliability and defect rate 
+systems constrains, such as budget, business, legal, social, environment, and 
+safety issues and constraints
 
 Measure critical process metrics
 
