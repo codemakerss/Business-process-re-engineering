@@ -139,7 +139,7 @@ Cost and schedule overrun
 they don't care about the middle process and front-line will be really critical parts for dealing with customers issues, so that we need manager to train those employees well 
 ```
   
-```
+```html
 1. The Customer 			Identify Customers& Define Outcomes
 2. Activities / Tasks		Redesign Outputs
 3. Functions / Processes	Determine Activities/Processes
