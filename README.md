@@ -100,7 +100,7 @@ cycle time - cost - inqut and output quality - frequency and distribution of inp
 identify enabling IT & generate alternative process redesigns
 
 ```
-	   --	        Business		 <--
+	   --	        Business         <--
 	  |                                 |
 Business-pulled			       Technology-driven
 
