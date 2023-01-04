@@ -141,8 +141,8 @@ they don't care about the middle process and front-line will be really critical 
   
 ```html
 1. The Customer 			Identify Customers& Define Outcomes
-2. Activities / Tasks		    Redesign Outputs
-3. Functions / Processes	    Determine Activities/Processes
+2. Activities / Tasks		        Redesign Outputs
+3. Functions / Processes	        Determine Activities/Processes
 4. Organization				Define Job Responsibilities 
 5. Management				Develop Organization Structures
 ```
