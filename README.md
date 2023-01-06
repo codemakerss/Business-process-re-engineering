@@ -140,7 +140,8 @@ Cost and schedule overrun
   
 ## Customer Perspective
 ```
-they don't care about the middle process and front-line will be really critical parts for dealing with customers issues, so that we need manager to train those employees well 
+they don't care about the middle process and front-line will be really critical parts 
+for dealing with customers issues, so that we need manager to train those employees well 
 ```
   
 ```html
@@ -153,7 +154,7 @@ they don't care about the middle process and front-line will be really critical 
   
 ## Summary
   
-![Summary pics](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src2.png)
+![Summary pics](https://github.com/codemakerss/Business-process-re-engineering/blob/main/pics/src2_2.png)
   
 
 
