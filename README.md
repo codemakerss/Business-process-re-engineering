@@ -31,9 +31,9 @@ industry -> pricing -> purchasing -> distribution
 ```html
 1. Technology
    Enabling technologies
-   IS architectures
+   IS architectures (information systems)
    Methods and tools
-   IS organizations
+   IS organizations (information systems)
 
 2. Process
    Core business processes
